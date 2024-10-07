@@ -4,6 +4,8 @@
 
 - <b>Active Directory Project</b>
   - [Praciting Active Directory](https://github.com/LuizFilipe1904/Active-Directory-Lab)
+- <b>Elastic SIEM Lab</b>
+  - [Creating Elastic SIEM Home Lab](https://github.com/LuizFilipe1904/Elastic-SIEM-lab)
     
 <h2> 🤳 Connect with me:</h2>
 
