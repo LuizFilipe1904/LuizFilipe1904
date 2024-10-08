@@ -6,6 +6,8 @@
   - [Praciting Active Directory](https://github.com/LuizFilipe1904/Active-Directory-Lab)
 - <b>Elastic SIEM Lab</b>
   - [Creating Elastic SIEM Home Lab](https://github.com/LuizFilipe1904/Elastic-SIEM-lab)
+ - <b>Nessus Vulnerability Management Lab</b>
+   - [Creating Vulnerability Management Lab](https://github.com/LuizFilipe1904/Nessus-Vulnerability-Management)
     
 <h2> 🤳 Connect with me:</h2>
 
