@@ -2,8 +2,6 @@
 
 <h2>🔐 Cybersecurity Projects:</h2>
 
-- <b>Active Directory Project</b>
-  - [Praciting Active Directory](https://github.com/LuizFilipe1904/Active-Directory-Lab)
 - <b>Elastic SIEM Lab</b>
   - [Creating Elastic SIEM Home Lab](https://github.com/LuizFilipe1904/Elastic-SIEM-lab)
  - <b>Nessus Vulnerability Management Lab</b>
